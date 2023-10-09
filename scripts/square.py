@@ -1,4 +1,4 @@
-import numpy as np
+from math import sqrt
 
 y=square(x)
-y=np.sqrt(y)
+y=sqrt(y)
