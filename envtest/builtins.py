@@ -9,3 +9,6 @@ def rand_array(shape):
 
 def smooth_image(a, sigma=1):
     return ndimage.gaussian_filter(a, sigma=sigma)
+
+def square(x):
+    return y
